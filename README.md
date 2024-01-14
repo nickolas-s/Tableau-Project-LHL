@@ -30,7 +30,7 @@ The following are the findings acquired from the dataset ‘FAA Wildlife Strikes
     ![](https://res.cloudinary.com/dnfecsurp/image/upload/v1705124807/tableau-project/Q1_Wildlife_Category_dc9qcs.png)
 
 2. *What kind of damage occurred by wildlife category?*
-	Each collision was classified as causing one the the following damages: None, Minor, Substantial, Medium, and Destroyed. Focusing on the Birds category, the majority of the collisions (24,214) caused no damage. 866 collisions caused substantial resulting in the highest cost across all categories. Two side-by-side bars valuations were created to analyze simultaneously the number of strikes and cost by wildlife category.
+	Each collision was classified as causing one the the following damages: None, Minor, Substantial, Medium, and Destroyed. Focusing on the Birds category, the majority of the collisions (24,214) caused no damage. 866 collisions caused substantial damage resulting in the highest cost across all categories. Two side-by-side bar visualizations were created to analyze simultaneously the number of strikes and cost by wildlife category.
 
     ![](https://res.cloudinary.com/dnfecsurp/image/upload/v1705124807/tableau-project/Q2_Wildlife_Category_Damage_dsvp9a.png)
 
@@ -54,7 +54,7 @@ The following are the findings acquired from the dataset ‘FAA Wildlife Strikes
 
     ![](https://res.cloudinary.com/dnfecsurp/image/upload/v1705124809/tableau-project/Q5_Top_5_Airports_-_Strikes_p61hip.png)
 
-6. *Top five airports with the highest cost caused by collisions.* Refer to the image below for the top five airports with the highest cost caused by collisions. Just as in the prior question, A horizontal bar chart with the parameter ‘Top N’ was used to identify the top five airports.
+6. *Top five airports with the highest cost caused by collisions.* Refer to the image below for the top five airports with the highest cost caused by collisions. Just as in the prior question, a horizontal bar chart with the parameter ‘Top N’ was used to identify the top five airports.
 
     ![](https://res.cloudinary.com/dnfecsurp/image/upload/v1705124808/tableau-project/Q6_Top_5_Airports_-_Cost_igv8cf.png)
 
